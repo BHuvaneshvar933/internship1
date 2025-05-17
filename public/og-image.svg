@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#6d28d9" />
+  <rect x="50" y="50" width="1100" height="530" rx="20" fill="#7c3aed" />
+  
+  <text x="600" y="250" font-family="Lexend, sans-serif" font-size="80" font-weight="bold" text-anchor="middle" fill="#ffffff">
+    SoftSell
+  </text>
+  
+  <text x="600" y="350" font-family="Inter, sans-serif" font-size="40" text-anchor="middle" fill="#ffffff">
+    Recover Value from Unused Software Licenses
+  </text>
+  
+  <path d="M400 450 L500 400 L600 450 L700 400 L800 450" stroke="#f59e0b" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+</svg>

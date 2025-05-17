@@ -120,9 +120,9 @@ src/
 
 ## ⏱️ Time Spent
 
-- 🧠 Design planning: 4 hours
-- 💻 Core development: 36 hours
-- 🧪 Testing + optimization: 8 hours
+- 🧠 Design planning: 1 hours
+- 💻 Core development: 2 hours
+- 🧪 Testing + optimization: 0.5 hours
 
 ---
 
